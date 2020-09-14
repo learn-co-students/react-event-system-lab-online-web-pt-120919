@@ -10,7 +10,5 @@ export default class Keypad extends Component {
             onKeyUp={print} 
             type="password" />
         )
-
     }
-
 }
